@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *main- project on puts
- * puts
+ *main- this program, prints the inscription
+ * Return: 0 if exited properly, non-ero otherwise
  */
 int main(void)
 {
