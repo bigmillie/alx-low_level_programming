@@ -1,5 +1,6 @@
 #include <stdio.h>
-/* project on puts
+/**
+ *main- project on puts
  * puts
  */
 int main(void)
