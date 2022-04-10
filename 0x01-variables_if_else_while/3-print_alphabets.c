@@ -18,4 +18,6 @@ putchar(cht);
 cht++;
 }
 putchar('\n');
+return (0);
 }
+
